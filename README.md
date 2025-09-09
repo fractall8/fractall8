@@ -4,7 +4,7 @@
   <img src="https://www.codewars.com/users/fractall8/badges/large" alt="Fractall8's Codewars stats" />
 </p>
 <ul>
-  <li>🔭 I’m currently working on <b>SoundCloud music downloader bot</b></li>
+  <li>🔭 I’m currently working on <b>Music downloader bot</b></li>
   <li>🌱 I'm currently learning <b>algorithms and getting into backend</b></li>
   <li>👨‍💻 Some of my projects are available on Github</li>
 </ul>
