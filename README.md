@@ -11,6 +11,23 @@
   <li><b>Tools:</b> Git, Docker</li>
 </ul>
 
+<!--
+### 🏗 Featured Projects
+
+#### 🏋️ [GymLog](https://github.com/yourusername/GymLog)
+A comprehensive application for tracking workout progress and gym performance. 
+- **Tech:** .NET, C#, SQL.
+- **Goal:** Solving the problem of messy workout notes with a structured digital approach.
+
+#### 🤖 [MediaDownloaderBot](https://github.com/yourusername/MediaBot)
+A Telegram bot that allows users to download audio content from YouTube, TikTok, and SoundCloud.
+- **Tech:** Python, Asyncio, Telegram API.
+
+#### 🗺️ [Pathfinding Visualizer](https://github.com/yourusername/Visualizer) (In Progress)
+A tool to visualize classic search algorithms like A* and Dijkstra.
+- **Tech:** Python, Algorithms & Data Structures.
+-->
+
 <h3>📫 Connect with me:</h3>
 
 <a href="https://t.me/fractall8" target="_blank">
