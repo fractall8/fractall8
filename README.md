@@ -11,22 +11,27 @@
   <li><b>Tools:</b> Git, Docker</li>
 </ul>
 
-<!--
-### 🏗 Featured Projects
+<h3>🚀 Featured Projects</h3>
 
-#### 🏋️ [GymLog](https://github.com/yourusername/GymLog)
-A comprehensive application for tracking workout progress and gym performance. 
-- **Tech:** .NET, C#, SQL.
-- **Goal:** Solving the problem of messy workout notes with a structured digital approach.
-
-#### 🤖 [MediaDownloaderBot](https://github.com/yourusername/MediaBot)
-A Telegram bot that allows users to download audio content from YouTube, TikTok, and SoundCloud.
-- **Tech:** Python, Asyncio, Telegram API.
-
-#### 🗺️ [Pathfinding Visualizer](https://github.com/yourusername/Visualizer) (In Progress)
-A tool to visualize classic search algorithms like A* and Dijkstra.
-- **Tech:** Python, Algorithms & Data Structures.
--->
+<ul>
+  <li>
+    <a href="https://github.com/fractall8/DownloaderBot" target="_blank" rel="noopener noreferrer"><b>DownloaderBot</b></a> 
+    - A distributed media downloading service built with <b>.NET 10</b>, <b>Redis</b>, and <b>Docker</b>. 
+    Features a decoupled Producer-Consumer architecture, a Pipeline pattern for media processing, 
+    and caching by FileId to optimize performance and reduce bandwidth.
+  </li>
+  <li>
+    <a href="https://github.com/fractall8/GymLog" target="_blank" rel="noopener noreferrer"><b>GymLog</b></a> 
+    - A containerized full-stack fitness tracking application. 
+    Built with <b>.NET 10</b>, <b>React 19</b>, and <b>PostgreSQL</b>. 
+    Demonstrates N-Tier architecture, JWT authentication, and Docker orchestration.
+  </li>
+  <li>
+    <a href="https://github.com/fractall8/doc-chat" target="_blank" rel="noopener noreferrer"><b>Doc-Chat</b></a> 
+    - An AI-powered SaaS platform for interactive document analysis. 
+    Leverages <b>Next.js 15</b>, <b>tRPC</b>, <b>Pinecone</b>, and <b>OpenAI</b> to implement a Retrieval-Augmented Generation (RAG) pipeline for chatting with PDFs.
+  </li>
+</ul>
 
 <h3>📫 Connect with me:</h3>
 
